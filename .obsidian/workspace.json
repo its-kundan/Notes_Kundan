@@ -11,13 +11,24 @@
             "id": "feac5804f3df446e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "35ea4794da5ef56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "MERN Stack/Full Stack.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MERN Stack/Full Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MERN Stack/Full Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MERN Stack/Full Stack.md"
+              }
             }
           }
         ]
@@ -140,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "753ea6323182a8eb",
+  "active": "35ea4794da5ef56a",
   "lastOpenFiles": [
+    "MERN Stack/Full Stack.md",
+    "Untitled.canvas",
     "Readme.md",
     "MERN Stack"
   ]
